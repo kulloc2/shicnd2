@@ -20,7 +20,7 @@ public class HashSetExample1 {
         set.add("C++");
         set.add("PHP");
         set.add("Java11");
-        // Show set through Iterator
+        // Show set through 111Iterator
         Iterator<String> itr = set.iterator();
         while (itr.hasNext()) {
             System.out.print(itr.next() + ", ");
