@@ -12,7 +12,7 @@ public class MainProgram {
 		Dog dog = new Dog("kiki", 3, "dog");
 		System.out.println("Name of " + dog.getTypeAnimal() + " : " + dog.getName());
 		System.out.println("Age of " + dog.getTypeAnimal() + " : " + dog.getAge());
-		Tiger tiger = new Tiger("alpha", 4, "tiger");
+		Tiger tiger = new Tiger("alpha", 4, "tiger"123);
 		System.out.println("Name of " + tiger.getTypeAnimal() + " : " + tiger.getName());
 		System.out.println("Age of " + tiger.getTypeAnimal() + " : " + tiger.getAge());
 	}
