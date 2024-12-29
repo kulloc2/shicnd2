@@ -31,7 +31,7 @@ public class CollectionExample1 {
         linkedList.add("Java");
         linkedList.add("C++");
         System.out.println("Các phần tử của LinkedList");
-        System.out.print("\t" + linkedList + "\n");
+        System.out.print("\t234" + linkedList + "\n");
  
         // new TreeSet() sẽ sắp xếp các phần tử
         Set<String> hashSet = new HashSet<String>();
