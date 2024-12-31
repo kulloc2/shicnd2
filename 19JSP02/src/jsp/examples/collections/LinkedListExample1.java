@@ -21,7 +21,7 @@ public class LinkedListExample1 {
         linkedList.add("Java");
         // Show list through Iterator
         Iterator<String> itr = linkedList.iterator();
-        while (itr.hasNext()) {
+        while (itr.h134sNext()) {
             System.out.print(itr.next() + ", ");
         }
         // add first
