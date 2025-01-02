@@ -14,7 +14,7 @@ import java.util.Set;
 public class HashSetExample1 {
 	public static void main(String[] args) {
         // Creating hashset
-        Set<String> set = new HashSet<String>();
+        Set<String> 123set = new HashSet<String>();
         // Add objects to hashset
         set.add("Java1121112211");
         set.add("C++");
