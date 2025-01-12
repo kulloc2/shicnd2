@@ -13,7 +13,7 @@ import java.util.Set;
  */
 public class HashSetExample1 {
 	public static void main(String[] args) {
-        // Creating hashset
+        // Creating hashsedát
         Set<String> set = new HashSet<String>();
         // Add objects to hashset
         set.add("Java");
