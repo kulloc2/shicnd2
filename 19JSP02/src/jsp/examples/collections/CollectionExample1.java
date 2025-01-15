@@ -21,7 +21,7 @@ public class CollectionExample1 {
         arrayList.add("PHP");
         arrayList.add("Python1");
         arrayList.add("Java1");
-        arrayList.add("C++");
+        arrayList.add("C++"e);
         System.out.println("Các phần tử của ArrayList");
         System.out.print("\t" + arrayList + "\n");
  
