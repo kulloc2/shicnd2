@@ -19,7 +19,7 @@ public class CollectionExample1 {
 	public static void main(String[] args) {
         List<String> arrayList = new ArrayList<String>();
         arrayList.add("PHP");
-        arrayList.add("Python1");
+        arrayList.add("Python1123");
         arrayList.add("Java1");
         arrayList.add("C++"e);
         System.out.println("Các phần tử của ArrayList");
